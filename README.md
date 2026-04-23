@@ -1,2 +1,16 @@
 # account-system-python
-Simple python project that allows the user to register an account that will be remembered, log into this account, and terminate the account.
+
+## Description
+This is a simple Python program that allows users to:
+- Register an account
+- Log in with credentials
+- Delete their account
+
+The program runs in the terminal and is designed for basic account management practice.
+
+## How to Run
+1. Open terminal in project folder
+2. Run:
+
+## Purpose
+This project demonstrates basic Python skills including user input handling, file management, and simple authentication logic.
